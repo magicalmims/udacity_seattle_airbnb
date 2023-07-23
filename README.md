@@ -1,5 +1,5 @@
 # udacity_seattle_airbnb
-Udacity Data Scientist Nanodegree Part 1: Seattle Air BnB Data
+### Udacity Data Scientist Nanodegree Part 1: Seattle Air BnB Data
 
 Motivation:  To understand and predict price of Seattle Air Bnb Data Homes for a Udacity Nanodegree Project
 
