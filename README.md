@@ -18,7 +18,7 @@ Files:
 
 Summary of Results:
 
-TBD as of July 23, 2023 (still working on it!)
+We can see a decent r2 (>.5) after cleaning and feature engineering several categorical and continuous variables! We can predict price somewhat accurately given the features.  Perhaps using sentiment analysis on the reviews would increase our R2. TBD on Sentiment Analysis. 
 
 
 Acknowledgements:  Udacity Nanodegree for Data Sets (originally from Kaggle) 
